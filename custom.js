@@ -1,2 +1,3 @@
-// Im from master
-alter('hello Word')
+// im from Slider
+console.log('Hello Word');
+
